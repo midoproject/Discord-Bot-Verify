@@ -1,4 +1,4 @@
-# Discord Verify Bot (✅) — Termux Android + GitHub (Pemula Friendly)
+# Discord Verify Bot (✅) Termux Android + GitHub (Pemula Friendly)
 
 Template bot Discord **siap pakai**: verifikasi emoji ✅ untuk kasih role, plus **autorole on join (opsional)**.
 Didesain untuk **HP Android via Termux**, **upload ke GitHub**, dan **jalan 24/7** pakai `tmux` / Termux:Boot.
